@@ -1,0 +1,425 @@
+{
+  "format": "asset-work",
+  "version": 3,
+  "made": "2026-11-03T14:42:54.268Z",
+  "pieces": {
+    "p1": {
+      "label": "클립 6c34c30c",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/6c34c30cd7212fc1.mp4",
+        "hash": "6c34c30cd7212fc1c359e36b2a00c92efb5155f9992f1ffb532df5e6f00ee605",
+        "size": 4956421
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c28,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1278
+          ],
+          "hash": "2b619b7bee827efcd904bed7eaffe0fcf0c78549f6eb2135c9da9d66207d8fbd"
+        },
+        "frags": [
+          {
+            "range": [
+              1278,
+              2461588
+            ],
+            "t": 0,
+            "hash": "2c1856252b5cf8613215351d02dcc3589fef30ca96626a3e093fc8db710e8e6f"
+          },
+          {
+            "range": [
+              2461588,
+              4956237
+            ],
+            "t": 2,
+            "hash": "c94a79df7c9008d69ad09fa1c2e1d83cd55532f210b0e68c3a02757f327a4504"
+          }
+        ]
+      }
+    },
+    "p2": {
+      "label": "클립 c5616b55",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/c5616b55b562e1ff.mp4",
+        "hash": "c5616b55b562e1ff42c024d8f8208301eed0b9c67041abfb87af221400153439",
+        "size": 5002901
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c28,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1278
+          ],
+          "hash": "3e31fed58c0e151916c61c667f9a2b9c032dd8ea55294d333ca8dbbfcf763ca2"
+        },
+        "frags": [
+          {
+            "range": [
+              1278,
+              2515332
+            ],
+            "t": 0,
+            "hash": "cb8acf27a358126bf17eae77fcf0052f87138bcabc3a527ba2c0512e86ba77e4"
+          },
+          {
+            "range": [
+              2515332,
+              5002717
+            ],
+            "t": 2,
+            "hash": "747c1f7da22c62789b257455ec427ac432fa46a86f2336d08e7e666a4a4ea1b5"
+          }
+        ]
+      }
+    },
+    "p3": {
+      "label": "클립 4b3bdfd4",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/4b3bdfd4460a373c.mp4",
+        "hash": "4b3bdfd4460a373cb60c9742805b6b3945dc83498fdab83750dfc4cf176ddddc",
+        "size": 80583969
+      },
+      "length": 64,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c28,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1278
+          ],
+          "hash": "7d79df7e10b8a077b3c141ae48c7b6a4e0194e140a1bc44dedd1df57ef4446d9"
+        },
+        "frags": [
+          {
+            "range": [
+              1278,
+              2520532
+            ],
+            "t": 0,
+            "hash": "02e2277cca792e5c4b6946c74a1e78fe57727413491eee0466ffc7de6f18f0ae"
+          },
+          {
+            "range": [
+              2520532,
+              5042419
+            ],
+            "t": 2,
+            "hash": "c8e3ff168b54ab25570dc1a6859812f2abf8f4bc7b3e3f59fdf37397e10c9ded"
+          },
+          {
+            "range": [
+              5042419,
+              7556542
+            ],
+            "t": 4,
+            "hash": "599612799fd1ecac2f845ffb7f27a5874fc2c6f60733966d9f396abe7ec95861"
+          },
+          {
+            "range": [
+              7556542,
+              10073578
+            ],
+            "t": 6,
+            "hash": "4047ffc9a8e8b170c019050ed896da78eadcb2bbd73bf133a4bd8ffa44a4d8d8"
+          },
+          {
+            "range": [
+              10073578,
+              12589504
+            ],
+            "t": 8,
+            "hash": "56a41c2f61ce81906aa7d06aabd1efd0506f691447bad13c3036ee0cf8c257c3"
+          },
+          {
+            "range": [
+              12589504,
+              15106672
+            ],
+            "t": 10,
+            "hash": "62bd1ce359685a9b081a94d715c2a1bacd6cd5ccc7cfd30b713e35909174949a"
+          },
+          {
+            "range": [
+              15106672,
+              17614192
+            ],
+            "t": 12,
+            "hash": "1f7a39d6601e2470e87ebbd3233670462f2ef9f696ede0240e15ea198a9ca883"
+          },
+          {
+            "range": [
+              17614192,
+              20128477
+            ],
+            "t": 14,
+            "hash": "42a06a4ee84377442b6374b35a3903c73628388d4fb3a3cc52a1fc4e66ea819c"
+          },
+          {
+            "range": [
+              20128477,
+              22704487
+            ],
+            "t": 16,
+            "hash": "83173ae3c3d5af21e1a76d7d93acd497ae0c0e5ae7999c59416634558c251c22"
+          },
+          {
+            "range": [
+              22704487,
+              25247750
+            ],
+            "t": 18,
+            "hash": "7a03ec308b1fafd9337b136345b57765e79e21a59de7ca887838b27c237eeb4d"
+          },
+          {
+            "range": [
+              25247750,
+              27742027
+            ],
+            "t": 20,
+            "hash": "42424b5c5d4e9257851e484be2ed32515b8d9a3b8db53d9f4bdd2fed3817d8f4"
+          },
+          {
+            "range": [
+              27742027,
+              30255885
+            ],
+            "t": 22,
+            "hash": "677809a9367fda6546dd9969df4c27c0ebecd6438cae9748901814747d07efab"
+          },
+          {
+            "range": [
+              30255885,
+              32780829
+            ],
+            "t": 24,
+            "hash": "03afa245f523e9fca9a1112dfa3436e1fa4cf1dda03c2c3f13058eb2e8135ef2"
+          },
+          {
+            "range": [
+              32780829,
+              35339475
+            ],
+            "t": 26,
+            "hash": "2a1939fdd430863ecc2c77ee2527de838c24bcaa49f9606064b472fdece9bfb4"
+          },
+          {
+            "range": [
+              35339475,
+              37838588
+            ],
+            "t": 28,
+            "hash": "1c0b0d1f7460177ea80a08f896b0ede2364a53628126c6868ea8e147488b5859"
+          },
+          {
+            "range": [
+              37838588,
+              40353263
+            ],
+            "t": 30,
+            "hash": "55afa7408009e3b97024dc890191fa23da2996f1434744772b56a011929aa044"
+          },
+          {
+            "range": [
+              40353263,
+              42876961
+            ],
+            "t": 32,
+            "hash": "9d03e655d121c2ff2e6094708b06e969c0b5b2a76e7f0d79c8be0ec5f071f086"
+          },
+          {
+            "range": [
+              42876961,
+              45403089
+            ],
+            "t": 34,
+            "hash": "755c352301aec3c56c8408c07c69b793556536b494ca1c664bacca0b12b13440"
+          },
+          {
+            "range": [
+              45403089,
+              47918914
+            ],
+            "t": 36,
+            "hash": "14ce7ddcdbc481508c170db23baa88d61aeda5b3967ec7c2c8dcf29a9b5d05e6"
+          },
+          {
+            "range": [
+              47918914,
+              50435138
+            ],
+            "t": 38,
+            "hash": "91e8ae5a6a6325e1956c831b17983b41c7142ae82598b4b411c11ead5b9254ea"
+          },
+          {
+            "range": [
+              50435138,
+              52946227
+            ],
+            "t": 40,
+            "hash": "de6297ff92113db511e368eee3d129f6e6bef681b5ebcfd7f3c3292ee3fc84aa"
+          },
+          {
+            "range": [
+              52946227,
+              55461861
+            ],
+            "t": 42,
+            "hash": "a949526bdc85d99e10adea0f732eddc3c8a303d9dd61786826bafba667e404cd"
+          },
+          {
+            "range": [
+              55461861,
+              57971759
+            ],
+            "t": 44,
+            "hash": "87cd248fbc0b937d9133e6255ed4c5ed2749a9bcadca7d3316da0c24d76a558d"
+          },
+          {
+            "range": [
+              57971759,
+              60478450
+            ],
+            "t": 46,
+            "hash": "ab9260a7485198ce6b27288db6afb56265b30c1451644ad3586016e4bb7c49c0"
+          },
+          {
+            "range": [
+              60478450,
+              62993689
+            ],
+            "t": 48,
+            "hash": "86b506844b7fdc42784193bca6a7282a052c7dce4decf3d413e7dd00a5adda7e"
+          },
+          {
+            "range": [
+              62993689,
+              65500055
+            ],
+            "t": 50,
+            "hash": "ee1bfca735f1100008cd187d6949a3b4b27181da23366cdfb1f7839c659b7bb8"
+          },
+          {
+            "range": [
+              65500055,
+              68014921
+            ],
+            "t": 52,
+            "hash": "78ac13cb5838b023b3b11ca873c1e1d378fa914558e38b9a4b79c754e19d985e"
+          },
+          {
+            "range": [
+              68014921,
+              70525794
+            ],
+            "t": 54,
+            "hash": "c9236c614a397f21fc4ee06bc9178737c9d695445d1f25f45a5901f6cfc5531c"
+          },
+          {
+            "range": [
+              70525794,
+              73044064
+            ],
+            "t": 56,
+            "hash": "52931fb6a0a516782d79301d95201e092f951c1a267fd643db550eef251baa51"
+          },
+          {
+            "range": [
+              73044064,
+              75548859
+            ],
+            "t": 58,
+            "hash": "3f9b3eac40085e91e380f0ef3434a606d00cca525bd6d3e574b79e4349927b6a"
+          },
+          {
+            "range": [
+              75548859,
+              78065666
+            ],
+            "t": 60,
+            "hash": "11bb2d24bc9c8a2dffdb81d7feb48217ed46e31f0c1cd5760cdd0318f327bae1"
+          },
+          {
+            "range": [
+              78065666,
+              80582105
+            ],
+            "t": 62,
+            "hash": "719ca75c1a73b4503d1cc4c4ed6e8a961beeb108966ec7a8479502da6c14e24d"
+          }
+        ]
+      }
+    },
+    "p4": {
+      "label": "클립 d0b432da",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/d0b432dada232f43.mp4",
+        "hash": "d0b432dada232f434ff1c03309eb88def9ebaf8a4047fd7555d5b129c4130b0e",
+        "size": 5066358
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c28,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1278
+          ],
+          "hash": "899e26e7550f1d3f65a47a1fdeeff98f66d257bf38e455266759c41edfbc9d3a"
+        },
+        "frags": [
+          {
+            "range": [
+              1278,
+              2528729
+            ],
+            "t": 0,
+            "hash": "f55da07af542f976d5494e6cb54590ac364121adefe7a50a865cdeabf20b0ce5"
+          },
+          {
+            "range": [
+              2528729,
+              5066174
+            ],
+            "t": 2,
+            "hash": "55739bdd31b22ca2fa80f24c92a6f7718ade80e91405ca6b2c33b5cbf9d69149"
+          }
+        ]
+      }
+    }
+  },
+  "flow": [
+    "p1",
+    "p2",
+    "p3",
+    "p4"
+  ]
+}
