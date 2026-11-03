@@ -1,10 +1,10 @@
 {
   "format": "asset-work",
   "version": 3,
-  "made": "2026-11-03T08:44:51.830Z",
+  "made": "2026-11-03T10:54:57.784Z",
   "pieces": {
     "p1": {
-      "label": "처음 장면 (A9 고침)",
+      "label": "영상 A 10 ~ 14초",
       "kind": "video",
       "clip": {
         "file": "../../clips/b91c42c5fec0a684.mp4",
@@ -17,6 +17,33 @@
         "width": 320,
         "height": 240,
         "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1255
+          ],
+          "hash": "725f006e5d14a083a45a3ddc0e61a61561a9d10d714c2f23bf85bc60d407effc"
+        },
+        "frags": [
+          {
+            "range": [
+              1255,
+              93821
+            ],
+            "t": 0,
+            "hash": "734319efccbb9c52b4106a403f4e1722fc18f2c527454efbbe1d712415716659"
+          },
+          {
+            "range": [
+              93821,
+              181683
+            ],
+            "t": 2,
+            "hash": "515d336da25bffe77fa3c3adc063756548ce0362860437dbaaab0a40b2f44ead"
+          }
+        ]
       }
     },
     "p2": {
@@ -33,6 +60,33 @@
         "width": 320,
         "height": 240,
         "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1260
+          ],
+          "hash": "b11da17bfd84e61ab18f0bffa33764158a10f1fe3c946f1f5e93a638c54add4d"
+        },
+        "frags": [
+          {
+            "range": [
+              1260,
+              26334
+            ],
+            "t": 0,
+            "hash": "f76e3c167f427a000c875b51ca1fc1bfd28836af0f31730e0b339be18b53eef7"
+          },
+          {
+            "range": [
+              26334,
+              50501
+            ],
+            "t": 2,
+            "hash": "d7ad471538beab72f86251438ea5c417794005931510f31f83151b835a3f0d2a"
+          }
+        ]
       }
     },
     "p3": {
@@ -49,6 +103,25 @@
         "width": 320,
         "height": 240,
         "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1255
+          ],
+          "hash": "725f006e5d14a083a45a3ddc0e61a61561a9d10d714c2f23bf85bc60d407effc"
+        },
+        "frags": [
+          {
+            "range": [
+              1255,
+              92859
+            ],
+            "t": 0,
+            "hash": "ba6036e33a6c275659f9f60d20256184a7cc5d5b4c6ec0634884526812e47ac5"
+          }
+        ]
       }
     },
     "p4": {
@@ -65,6 +138,33 @@
         "width": 320,
         "height": 240,
         "fps": 30
+      },
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1255
+          ],
+          "hash": "725f006e5d14a083a45a3ddc0e61a61561a9d10d714c2f23bf85bc60d407effc"
+        },
+        "frags": [
+          {
+            "range": [
+              1255,
+              93821
+            ],
+            "t": 0,
+            "hash": "734319efccbb9c52b4106a403f4e1722fc18f2c527454efbbe1d712415716659"
+          },
+          {
+            "range": [
+              93821,
+              181683
+            ],
+            "t": 2,
+            "hash": "515d336da25bffe77fa3c3adc063756548ce0362860437dbaaab0a40b2f44ead"
+          }
+        ]
       }
     }
   },
