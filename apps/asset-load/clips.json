@@ -1,0 +1,126 @@
+{
+  "format": "asset-clips",
+  "version": 1,
+  "clips": {
+    "5c49f81e2a2edcdada7ab57906bf4861e97afbeff4754b380e5210b01ef06a0e": {
+      "file": "clips/5c49f81e2a2edcda.mp4",
+      "size": 318636,
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1159
+          ],
+          "hash": "2ba8fb593e396675a13381ea1fdadbc63adf543c122a48f8b93f69a84e2a1f9a"
+        },
+        "frags": [
+          {
+            "range": [
+              1159,
+              170237
+            ],
+            "t": 0,
+            "hash": "49a3fd56af4e13c8f6bd787ad3d3c1f6bd4d153fa15cfe93b5a18f395a7a341e"
+          },
+          {
+            "range": [
+              170237,
+              318452
+            ],
+            "t": 2,
+            "hash": "10fa2173086a769203aaafeea87cfe9d44441990d5319e7fd74b672fd48dcb83"
+          }
+        ]
+      },
+      "length": 3.8,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c0d,opus\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "클립 5c49f81e"
+    },
+    "2cb45d352705b2d1399aad319b3b46f6228be265b695c12c40073fdcb03f3001": {
+      "file": "clips/2cb45d352705b2d1.mp4",
+      "size": 46919,
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1159
+          ],
+          "hash": "2ba8fb593e396675a13381ea1fdadbc63adf543c122a48f8b93f69a84e2a1f9a"
+        },
+        "frags": [
+          {
+            "range": [
+              1159,
+              36475
+            ],
+            "t": 0,
+            "hash": "7196d62301837adc4e5c348900cec15882e753c4f836aaeed8afaa0f7f10a8e2"
+          },
+          {
+            "range": [
+              36475,
+              46735
+            ],
+            "t": 2,
+            "hash": "3b8721e0dbcbdb62f92f3d9f230112493bb5fc5ec602c7133af7ea8b886ec4c3"
+          }
+        ]
+      },
+      "length": 2.5,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c0d,opus\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "클립 2cb45d35"
+    },
+    "bceb8d6ceacc62c4f2d5ab7ac06780569287f7bec31d19463f76bdcce3c72205": {
+      "file": "clips/bceb8d6ceacc62c4.mp4",
+      "size": 36927,
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1159
+          ],
+          "hash": "2ba8fb593e396675a13381ea1fdadbc63adf543c122a48f8b93f69a84e2a1f9a"
+        },
+        "frags": [
+          {
+            "range": [
+              1159,
+              36502
+            ],
+            "t": 0,
+            "hash": "60046242515a9aeecd4009b8d73b9084a51b7dcf8ce874b7084a0e7e8a838d21"
+          },
+          {
+            "range": [
+              36502,
+              36771
+            ],
+            "t": 2,
+            "hash": "09b048f73cc1624040ffb812a7dd172ed255a6c14caadf210af73b4c00bdce2e"
+          }
+        ]
+      },
+      "length": 2,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c0d,opus\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "클립 bceb8d6c"
+    }
+  }
+}
