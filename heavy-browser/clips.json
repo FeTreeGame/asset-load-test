@@ -2,8 +2,8 @@
   "format": "asset-clips",
   "version": 1,
   "clips": {
-    "6c34c30cd7212fc1c359e36b2a00c92efb5155f9992f1ffb532df5e6f00ee605": {
-      "file": "clips/6c34c30cd7212fc1.mp4",
+    "06340c9bdbb8c601ca6a424b1f7883654a471e18854c16581412861c30474ef1": {
+      "file": "clips/06340c9bdbb8c601.mp4",
       "size": 4956421,
       "parts": {
         "init": {
@@ -11,7 +11,7 @@
             0,
             1278
           ],
-          "hash": "2b619b7bee827efcd904bed7eaffe0fcf0c78549f6eb2135c9da9d66207d8fbd"
+          "hash": "a4ae9753b9aea73cce3b8dc1ef380afc5605fe7ad68d373858916a645fea9a78"
         },
         "frags": [
           {
@@ -40,10 +40,10 @@
         "height": 1080,
         "fps": 30
       },
-      "label": "클립 6c34c30c"
+      "label": "클립 06340c9b"
     },
-    "c5616b55b562e1ff42c024d8f8208301eed0b9c67041abfb87af221400153439": {
-      "file": "clips/c5616b55b562e1ff.mp4",
+    "fb21d0e3aaac9709d854182a0e1470cb6e67ea5ab972d881b2b3efc3d74bdd3c": {
+      "file": "clips/fb21d0e3aaac9709.mp4",
       "size": 5002901,
       "parts": {
         "init": {
@@ -51,7 +51,7 @@
             0,
             1278
           ],
-          "hash": "3e31fed58c0e151916c61c667f9a2b9c032dd8ea55294d333ca8dbbfcf763ca2"
+          "hash": "f781384cfd83b3a8547c2a8ecbba581899d7b3f902d24992c59c3b56c7da1209"
         },
         "frags": [
           {
@@ -80,10 +80,10 @@
         "height": 1080,
         "fps": 30
       },
-      "label": "클립 c5616b55"
+      "label": "클립 fb21d0e3"
     },
-    "4b3bdfd4460a373cb60c9742805b6b3945dc83498fdab83750dfc4cf176ddddc": {
-      "file": "clips/4b3bdfd4460a373c.mp4",
+    "b56e8c5af968c0dedc5f3bf93fa74a9b30880a61488109cdc8520b07cc1b4188": {
+      "file": "clips/b56e8c5af968c0de.mp4",
       "size": 80583969,
       "parts": {
         "init": {
@@ -91,7 +91,7 @@
             0,
             1278
           ],
-          "hash": "7d79df7e10b8a077b3c141ae48c7b6a4e0194e140a1bc44dedd1df57ef4446d9"
+          "hash": "278c50c0bdc4efc8e35f316eeb594babb2f687fa9c45bd5e74297a27467fbb3c"
         },
         "frags": [
           {
@@ -360,10 +360,10 @@
         "height": 1080,
         "fps": 30
       },
-      "label": "클립 4b3bdfd4"
+      "label": "클립 b56e8c5a"
     },
-    "d0b432dada232f434ff1c03309eb88def9ebaf8a4047fd7555d5b129c4130b0e": {
-      "file": "clips/d0b432dada232f43.mp4",
+    "126a7610d5b6d42a37391b7f31fbe1360571f487869997e1299fccc9c783a68e": {
+      "file": "clips/126a7610d5b6d42a.mp4",
       "size": 5066358,
       "parts": {
         "init": {
@@ -371,7 +371,7 @@
             0,
             1278
           ],
-          "hash": "899e26e7550f1d3f65a47a1fdeeff98f66d257bf38e455266759c41edfbc9d3a"
+          "hash": "a720c0c82193680f645bd8d425ec42d073513f237489e1dff557e7e448c4e86b"
         },
         "frags": [
           {
@@ -400,7 +400,71 @@
         "height": 1080,
         "fps": 30
       },
-      "label": "클립 d0b432da"
+      "label": "클립 126a7610"
+    },
+    "efa463ceb6c663faeb5af468d5bfe1752b35ee85ff19b7ad798d8946b639d2ba": {
+      "file": "clips/efa463ceb6c663fa.mp4",
+      "size": 12380125,
+      "parts": {
+        "init": {
+          "range": [
+            0,
+            1278
+          ],
+          "hash": "f4bc68d4822db38e7460f861785214493064062ae4c9a66e1e83e32146c500b6"
+        },
+        "frags": [
+          {
+            "range": [
+              1278,
+              2395826
+            ],
+            "t": 0,
+            "hash": "b56a6ced8250cf870f3fffba88c717a0b7b533d116b3d1fc7004bed38e35cf01"
+          },
+          {
+            "range": [
+              2395826,
+              4884047
+            ],
+            "t": 2,
+            "hash": "e70cf842fb90b52245b89b7598be8940c1e594c6ccda82a796c587dfba8edc62"
+          },
+          {
+            "range": [
+              4884047,
+              7369567
+            ],
+            "t": 4,
+            "hash": "909903b414cacd5d45100945f538cdab36f60a635aabc4c97b1f28ca248e0f8f"
+          },
+          {
+            "range": [
+              7369567,
+              9879719
+            ],
+            "t": 6,
+            "hash": "2ed72249a257e680ef9e7151cbe177c577d3ae05a386f792db4269c52b9a501e"
+          },
+          {
+            "range": [
+              9879719,
+              12379773
+            ],
+            "t": 8,
+            "hash": "fe1af00ca10988b9ff0d7482566b46e673bf548aa342ad74fa4031d65966aa72"
+          }
+        ]
+      },
+      "length": 10,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640c28,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "label": "클립 efa463ce"
     }
   }
 }

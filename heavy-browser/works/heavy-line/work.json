@@ -1,14 +1,14 @@
 {
   "format": "asset-work",
   "version": 3,
-  "made": "2026-11-03T14:42:54.268Z",
+  "made": "2026-11-03T14:59:15.241Z",
   "pieces": {
     "p1": {
-      "label": "클립 6c34c30c",
+      "label": "클립 06340c9b",
       "kind": "video",
       "clip": {
-        "file": "../../clips/6c34c30cd7212fc1.mp4",
-        "hash": "6c34c30cd7212fc1c359e36b2a00c92efb5155f9992f1ffb532df5e6f00ee605",
+        "file": "../../clips/06340c9bdbb8c601.mp4",
+        "hash": "06340c9bdbb8c601ca6a424b1f7883654a471e18854c16581412861c30474ef1",
         "size": 4956421
       },
       "length": 4,
@@ -24,7 +24,7 @@
             0,
             1278
           ],
-          "hash": "2b619b7bee827efcd904bed7eaffe0fcf0c78549f6eb2135c9da9d66207d8fbd"
+          "hash": "a4ae9753b9aea73cce3b8dc1ef380afc5605fe7ad68d373858916a645fea9a78"
         },
         "frags": [
           {
@@ -47,11 +47,11 @@
       }
     },
     "p2": {
-      "label": "클립 c5616b55",
+      "label": "클립 fb21d0e3",
       "kind": "video",
       "clip": {
-        "file": "../../clips/c5616b55b562e1ff.mp4",
-        "hash": "c5616b55b562e1ff42c024d8f8208301eed0b9c67041abfb87af221400153439",
+        "file": "../../clips/fb21d0e3aaac9709.mp4",
+        "hash": "fb21d0e3aaac9709d854182a0e1470cb6e67ea5ab972d881b2b3efc3d74bdd3c",
         "size": 5002901
       },
       "length": 4,
@@ -67,7 +67,7 @@
             0,
             1278
           ],
-          "hash": "3e31fed58c0e151916c61c667f9a2b9c032dd8ea55294d333ca8dbbfcf763ca2"
+          "hash": "f781384cfd83b3a8547c2a8ecbba581899d7b3f902d24992c59c3b56c7da1209"
         },
         "frags": [
           {
@@ -90,11 +90,11 @@
       }
     },
     "p3": {
-      "label": "클립 4b3bdfd4",
+      "label": "클립 b56e8c5a",
       "kind": "video",
       "clip": {
-        "file": "../../clips/4b3bdfd4460a373c.mp4",
-        "hash": "4b3bdfd4460a373cb60c9742805b6b3945dc83498fdab83750dfc4cf176ddddc",
+        "file": "../../clips/b56e8c5af968c0de.mp4",
+        "hash": "b56e8c5af968c0dedc5f3bf93fa74a9b30880a61488109cdc8520b07cc1b4188",
         "size": 80583969
       },
       "length": 64,
@@ -110,7 +110,7 @@
             0,
             1278
           ],
-          "hash": "7d79df7e10b8a077b3c141ae48c7b6a4e0194e140a1bc44dedd1df57ef4446d9"
+          "hash": "278c50c0bdc4efc8e35f316eeb594babb2f687fa9c45bd5e74297a27467fbb3c"
         },
         "frags": [
           {
@@ -373,11 +373,11 @@
       }
     },
     "p4": {
-      "label": "클립 d0b432da",
+      "label": "클립 126a7610",
       "kind": "video",
       "clip": {
-        "file": "../../clips/d0b432dada232f43.mp4",
-        "hash": "d0b432dada232f434ff1c03309eb88def9ebaf8a4047fd7555d5b129c4130b0e",
+        "file": "../../clips/126a7610d5b6d42a.mp4",
+        "hash": "126a7610d5b6d42a37391b7f31fbe1360571f487869997e1299fccc9c783a68e",
         "size": 5066358
       },
       "length": 4,
@@ -393,7 +393,7 @@
             0,
             1278
           ],
-          "hash": "899e26e7550f1d3f65a47a1fdeeff98f66d257bf38e455266759c41edfbc9d3a"
+          "hash": "a720c0c82193680f645bd8d425ec42d073513f237489e1dff557e7e448c4e86b"
         },
         "frags": [
           {
