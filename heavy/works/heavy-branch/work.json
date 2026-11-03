@@ -1,0 +1,102 @@
+{
+  "format": "asset-work",
+  "version": 3,
+  "made": "2026-11-03T09:37:55.537Z",
+  "pieces": {
+    "intro": {
+      "label": "상자 0:30 ~ 0:34",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/6e46462b9aa90cc1.mp4",
+        "hash": "6e46462b9aa90cc1a1a6fca569425ce6b9f7eb5f6be5a6fb30b7b96c1fb08dbd",
+        "size": 5807823
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      }
+    },
+    "long": {
+      "label": "무늬 5:00 ~ 6:04 (긴 클립)",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/e8c84b3734db8619.mp4",
+        "hash": "e8c84b3734db8619f4ca25b37c697e356d9348a7600634e6a1926b8942a959d5",
+        "size": 81359626
+      },
+      "length": 64,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      }
+    },
+    "short": {
+      "label": "상자 1:00 ~ 1:10",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/68c09567f83cfa46.mp4",
+        "hash": "68c09567f83cfa466547cebeb637ccdde819b37484b35df2f916a431d9ba998c",
+        "size": 13049942
+      },
+      "length": 10,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      }
+    },
+    "end": {
+      "label": "무늬 8:20 ~ 8:24",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/c47c4f02138891ce.mp4",
+        "hash": "c47c4f02138891ce0e3630518dd06d21a481bc3f18892c6d1ef2ec26d6c75456",
+        "size": 5198719
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      }
+    }
+  },
+  "flow": {
+    "start": "s_intro",
+    "scenes": {
+      "s_intro": {
+        "piece": "intro",
+        "choices": [
+          {
+            "label": "길게",
+            "to": "s_long"
+          },
+          {
+            "label": "짧게",
+            "to": "s_short"
+          }
+        ],
+        "default": 1
+      },
+      "s_long": {
+        "piece": "long",
+        "next": "s_end"
+      },
+      "s_short": {
+        "piece": "short",
+        "next": "s_end"
+      },
+      "s_end": {
+        "piece": "end",
+        "next": null
+      }
+    }
+  }
+}

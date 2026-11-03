@@ -1,0 +1,71 @@
+{
+  "format": "asset-clips",
+  "version": 1,
+  "clips": {
+    "8b7f7442d67bf3fc5a6b6b9bd1cce2934b1418e051c40b44457f08911d6ee504": {
+      "file": "clips/8b7f7442d67bf3fc.mp4",
+      "size": 5361714,
+      "length": 4,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "label": "무늬 2:00 ~ 2:04"
+    },
+    "6e46462b9aa90cc1a1a6fca569425ce6b9f7eb5f6be5a6fb30b7b96c1fb08dbd": {
+      "file": "clips/6e46462b9aa90cc1.mp4",
+      "size": 5807823,
+      "length": 4,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "label": "상자 0:30 ~ 0:34"
+    },
+    "e8c84b3734db8619f4ca25b37c697e356d9348a7600634e6a1926b8942a959d5": {
+      "file": "clips/e8c84b3734db8619.mp4",
+      "size": 81359626,
+      "length": 64,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "label": "무늬 5:00 ~ 6:04 (긴 클립)"
+    },
+    "c47c4f02138891ce0e3630518dd06d21a481bc3f18892c6d1ef2ec26d6c75456": {
+      "file": "clips/c47c4f02138891ce.mp4",
+      "size": 5198719,
+      "length": 4,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "label": "무늬 8:20 ~ 8:24"
+    },
+    "68c09567f83cfa466547cebeb637ccdde819b37484b35df2f916a431d9ba998c": {
+      "file": "clips/68c09567f83cfa46.mp4",
+      "size": 13049942,
+      "length": 10,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.640028,mp4a.40.2\"",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30
+      },
+      "label": "상자 1:00 ~ 1:10"
+    }
+  }
+}
