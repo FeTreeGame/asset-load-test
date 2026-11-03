@@ -1,0 +1,77 @@
+{
+  "format": "asset-work",
+  "version": 3,
+  "made": "2026-11-03T08:44:51.830Z",
+  "pieces": {
+    "p1": {
+      "label": "영상 A 10 ~ 14초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/b91c42c5fec0a684.mp4",
+        "hash": "b91c42c5fec0a6842c0831c5197a344fc8e4ba10ca6db827d078926e697961dd",
+        "size": 181831
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "p2": {
+      "label": "영상 B 2 ~ 6초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/37e2845b14170544.mp4",
+        "hash": "37e2845b1417054494b1c096913ca2738de5e352b40141ffcd041948e4ac623c",
+        "size": 50649
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "p3": {
+      "label": "영상 A 16 ~ 18초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/329907f9f0ab5d4b.mp4",
+        "hash": "329907f9f0ab5d4b0d4d6a71bbe74b8d34fc1f98de782be391e77b3b15ab339e",
+        "size": 92969
+      },
+      "length": 2,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "p4": {
+      "label": "영상 A 10 ~ 14초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/b91c42c5fec0a684.mp4",
+        "hash": "b91c42c5fec0a6842c0831c5197a344fc8e4ba10ca6db827d078926e697961dd",
+        "size": 181831
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    }
+  },
+  "flow": [
+    "p1",
+    "p2",
+    "p3",
+    "p4"
+  ]
+}

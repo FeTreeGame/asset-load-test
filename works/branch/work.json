@@ -1,0 +1,161 @@
+{
+  "format": "asset-work",
+  "version": 3,
+  "made": "2026-11-03T08:44:52.191Z",
+  "pieces": {
+    "intro": {
+      "label": "영상 A 10 ~ 14초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/b91c42c5fec0a684.mp4",
+        "hash": "b91c42c5fec0a6842c0831c5197a344fc8e4ba10ca6db827d078926e697961dd",
+        "size": 181831
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "box": {
+      "label": "영상 B 2 ~ 6초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/37e2845b14170544.mp4",
+        "hash": "37e2845b1417054494b1c096913ca2738de5e352b40141ffcd041948e4ac623c",
+        "size": 50649
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "bars": {
+      "label": "영상 A 14 ~ 18초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/f15bf77aa394dff7.mp4",
+        "hash": "f15bf77aa394dff7c03d3a2fe09dc80503c10c814b28e6c8191a92d47af59e47",
+        "size": 189977
+      },
+      "length": 4,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "mid": {
+      "label": "영상 A 4 ~ 6초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/eba3fe23a811e040.mp4",
+        "hash": "eba3fe23a811e0401e15a47c7c1391179325de357393677499758990a0f4c29c",
+        "size": 91237
+      },
+      "length": 2,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "endA": {
+      "label": "영상 B 7 ~ 9초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/c45fdd2a900ab2cd.mp4",
+        "hash": "c45fdd2a900ab2cd7961bc64c9fdaf17a6cd216d4478aa17c3964dfceb44b947",
+        "size": 26728
+      },
+      "length": 2,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    },
+    "endB": {
+      "label": "영상 A 16 ~ 18초",
+      "kind": "video",
+      "clip": {
+        "file": "../../clips/329907f9f0ab5d4b.mp4",
+        "hash": "329907f9f0ab5d4b0d4d6a71bbe74b8d34fc1f98de782be391e77b3b15ab339e",
+        "size": 92969
+      },
+      "length": 2,
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      }
+    }
+  },
+  "flow": {
+    "start": "s_intro",
+    "vars": {
+      "route": null
+    },
+    "scenes": {
+      "s_intro": {
+        "piece": "intro",
+        "choices": [
+          {
+            "label": "상자",
+            "to": "s_box",
+            "set": {
+              "route": "box"
+            }
+          },
+          {
+            "label": "무늬",
+            "to": "s_bars",
+            "set": {
+              "route": "bars"
+            }
+          }
+        ],
+        "default": 0
+      },
+      "s_box": {
+        "piece": "box",
+        "next": "s_mid"
+      },
+      "s_bars": {
+        "piece": "bars",
+        "next": "s_mid"
+      },
+      "s_mid": {
+        "piece": "mid",
+        "next": [
+          {
+            "if": {
+              "route": "box"
+            },
+            "to": "s_endA"
+          },
+          {
+            "to": "s_endB"
+          }
+        ]
+      },
+      "s_endA": {
+        "piece": "endA",
+        "next": null
+      },
+      "s_endB": {
+        "piece": "endB",
+        "next": null
+      }
+    }
+  }
+}

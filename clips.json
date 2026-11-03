@@ -1,0 +1,84 @@
+{
+  "format": "asset-clips",
+  "version": 1,
+  "clips": {
+    "b91c42c5fec0a6842c0831c5197a344fc8e4ba10ca6db827d078926e697961dd": {
+      "file": "clips/b91c42c5fec0a684.mp4",
+      "size": 181831,
+      "length": 4,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "영상 A 10 ~ 14초"
+    },
+    "37e2845b1417054494b1c096913ca2738de5e352b40141ffcd041948e4ac623c": {
+      "file": "clips/37e2845b14170544.mp4",
+      "size": 50649,
+      "length": 4,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "영상 B 2 ~ 6초"
+    },
+    "329907f9f0ab5d4b0d4d6a71bbe74b8d34fc1f98de782be391e77b3b15ab339e": {
+      "file": "clips/329907f9f0ab5d4b.mp4",
+      "size": 92969,
+      "length": 2,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "영상 A 16 ~ 18초"
+    },
+    "f15bf77aa394dff7c03d3a2fe09dc80503c10c814b28e6c8191a92d47af59e47": {
+      "file": "clips/f15bf77aa394dff7.mp4",
+      "size": 189977,
+      "length": 4,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "영상 A 14 ~ 18초"
+    },
+    "eba3fe23a811e0401e15a47c7c1391179325de357393677499758990a0f4c29c": {
+      "file": "clips/eba3fe23a811e040.mp4",
+      "size": 91237,
+      "length": 2,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "영상 A 4 ~ 6초"
+    },
+    "c45fdd2a900ab2cd7961bc64c9fdaf17a6cd216d4478aa17c3964dfceb44b947": {
+      "file": "clips/c45fdd2a900ab2cd.mp4",
+      "size": 26728,
+      "length": 2,
+      "kind": "video",
+      "spec": {
+        "mime": "video/mp4; codecs=\"avc1.64001e,mp4a.40.2\"",
+        "width": 320,
+        "height": 240,
+        "fps": 30
+      },
+      "label": "영상 B 7 ~ 9초"
+    }
+  }
+}
